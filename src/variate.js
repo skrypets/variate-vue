@@ -1,4 +1,4 @@
-import Variate from '@variate/engine';
+import Variate from '@hotelspider/variate-engine';
 import version from './lang/version';
 import * as debug from './lang/debug';
 

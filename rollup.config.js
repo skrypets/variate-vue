@@ -23,7 +23,7 @@ export default [{
             name: 'Variate-Vue',
             env: 'development',
             globals: {
-                '@variate/engine': 'Variate'
+                '@hotelspider/variate-engine': 'Variate'
             },
             exports: 'named',
         },
@@ -37,7 +37,7 @@ export default [{
                 uglify(),
             ],
             globals: {
-                '@variate/engine': 'Variate'
+                '@hotelspider/variate-engine': 'Variate'
             },
             exports: 'named',
         },
@@ -57,7 +57,7 @@ export default [{
         }
     ],
     context: Vue,
-    external: [ '@variate/engine' ],
+    external: [ '@hotelspider/variate-engine' ],
     plugins: [
         resolve(),
         commonjs(
