@@ -17,7 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@hotelspider/variate-engine": "^3.3.0",
+    "@hotelspider/variate-engine": "^3.3.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {

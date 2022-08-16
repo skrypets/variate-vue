@@ -1153,10 +1153,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@hotelspider/variate-engine@^3.3.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@hotelspider/variate-engine/-/variate-engine-3.3.0.tgz#eb902daca2802c36cc8f924ffe57fa6f830dc3e4"
-  integrity sha512-EaO0UMusmq8QOmdTvMPT5QSEpl0VloBozQJSO0cFUHeADZmaCHtHL7Ixl5X9xCCvGmmw/5socmlS8VMa4fXOyA==
+"@hotelspider/variate-engine@^3.3.1":
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/@hotelspider/variate-engine/-/variate-engine-3.3.1.tgz#9bef56ffc8dd0cdb5406d869d06cf042da0fd9e5"
+  integrity sha512-Gfx90EBD5nkOjvdbSOLfyrrgT+2Yn5WNIcl+/Go06YYbfNDAFW0YZzjVqk5GuYcK8wGiDPAHvd4e9NRDCCsWkw==
   dependencies:
     "@types/get-value" "^3.0.1"
     deepmerge "^4.2.2"
